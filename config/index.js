@@ -1,3 +1,3 @@
 module.exports = {
-    localDbUri: 'mongodb://localhost:27017/sales-db',
+    localDbUri: 'mongodb://localhost:27017/sales-db1',
  }
